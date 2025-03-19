@@ -33,5 +33,5 @@ Monitors the online status of a device and updates its status in a MongoDB datab
 Run the project:
 
 ```sh
-bun run [index.ts](http://_vscodecontentref_/1)
+bun run .
 ```
